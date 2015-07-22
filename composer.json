@@ -17,5 +17,6 @@
     },
     "autoload": {
         "classmap": ["src/easyCrud.class.php"]
-    }
+    },
+    "minimum-stability": "dev"
 }

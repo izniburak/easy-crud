@@ -12,7 +12,7 @@
 
 header('content-type: text/html; charset=utf-8');
 
-require 'easyCrud.php';
+require 'vendor/autoload.php';
 	
 try
 {

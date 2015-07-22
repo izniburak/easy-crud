@@ -1,0 +1,21 @@
+{
+    "name": "izniburak/easycrud",
+    "type": "library",
+    "description": "simple crud class for php",
+    "keywords": ["php","crud","sql"],
+    "homepage": "https://github.com/izniburak/easyCrud",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ýzni Burak Demirtaþ",
+            "email": "info@burakdemirtas.org",
+            "homepage": "http://burakdemirtas.org"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "classmap": ["src/easyCrud.class.php"]
+    }
+}

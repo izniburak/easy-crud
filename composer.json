@@ -1,13 +1,13 @@
 {
-    "name": "izniburak/easycrud",
+    "name": "izniburak/easy-crud",
     "type": "library",
     "description": "simple crud class for php",
     "keywords": ["php","crud","sql"],
-    "homepage": "https://github.com/izniburak/easyCrud",
+    "homepage": "https://github.com/izniburak/easy-crud",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ýzni Burak Demirtaþ",
+            "name": "Ä°zni Burak DemirtaÅŸ",
             "email": "info@burakdemirtas.org",
             "homepage": "http://burakdemirtas.org"
         }

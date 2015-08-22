@@ -23,7 +23,7 @@ $ composer install
 OR run the following command directly.
 
 ```
-$ composer require izniburak/easy-crud
+$ composer require izniburak/easy-crud:dev-master
 ```
 
 ## Example Usage
